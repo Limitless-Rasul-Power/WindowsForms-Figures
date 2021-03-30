@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\WindowsForms Figures\WindowsForms Figures\bin\Debug\WindowsForms Figures.exe.config
+C:\Users\Admin\source\repos\WindowsForms Figures\WindowsForms Figures\bin\Debug\WindowsForms Figures.exe
+C:\Users\Admin\source\repos\WindowsForms Figures\WindowsForms Figures\bin\Debug\WindowsForms Figures.pdb
+C:\Users\Admin\source\repos\WindowsForms Figures\WindowsForms Figures\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\WindowsForms Figures\WindowsForms Figures\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\WindowsForms Figures\WindowsForms Figures\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\WindowsForms Figures\WindowsForms Figures\obj\Debug\WindowsForms Figures.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsForms Figures\WindowsForms Figures\obj\Debug\WindowsForms_Figures.Form1.resources
+C:\Users\Admin\source\repos\WindowsForms Figures\WindowsForms Figures\obj\Debug\WindowsForms_Figures.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsForms Figures\WindowsForms Figures\obj\Debug\WindowsForms Figures.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsForms Figures\WindowsForms Figures\obj\Debug\WindowsForms Figures.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsForms Figures\WindowsForms Figures\obj\Debug\WindowsForms Figures.csproj.CopyComplete
+C:\Users\Admin\source\repos\WindowsForms Figures\WindowsForms Figures\obj\Debug\WindowsForms Figures.exe
+C:\Users\Admin\source\repos\WindowsForms Figures\WindowsForms Figures\obj\Debug\WindowsForms Figures.pdb
